@@ -1,0 +1,11 @@
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\assignment6.exe
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\assignment6.dll
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\assignment6.deps.json
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\assignment6.runtimeconfig.json
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\assignment6.pdb
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\phase3\daily examples\day6\assignment6\assignment6\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
